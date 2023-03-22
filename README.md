@@ -3,7 +3,7 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Business Goal(#Business-Goals)
+* [Business Goal](#Business-Goals)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
