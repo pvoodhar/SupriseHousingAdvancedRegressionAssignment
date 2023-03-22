@@ -35,9 +35,9 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
         R2 score(Test)             0.87             0.86
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- SciKit Learn
+- Pandas, Numpy
+- Matplotlib, Seaborn 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
