@@ -2,8 +2,8 @@
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Business Goal(#Business Goals)
+* [General Information](#general-information)
+* [Business Goal(#Business-Goals)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
@@ -30,9 +30,9 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 - The r2_score of lasso is slightly higher than ridge for the test dataset , So we will choose lasso regression over the rudge regression in order to meet the business goal
 
                         Ridge Regression  Lasso Regression
-R2 score(Train)            0.88             0.88
+        R2 score(Train)            0.88             0.88
 
-R2 score(Test)             0.87             0.86
+        R2 score(Test)             0.87             0.86
 
 ## Technologies Used
 - library - version 1.0
